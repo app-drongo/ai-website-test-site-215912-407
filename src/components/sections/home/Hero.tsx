@@ -9,7 +9,7 @@ import { useSmartNavigation } from '@/hooks/useSmartNavigation';
 
 const DEFAULT_HERO = {
   badge: 'Streamlined Technology',
-  title: 'Reliable Solutions for Seamless User Experiences',
+  title: 'Test Solutions for Seamless User Experiences',
   subtitle:
     'Validated technology that works flawlessly. Built for testing excellence with minimal complexity and maximum performance.',
   primaryCta: 'Start Testing',
@@ -19,8 +19,8 @@ const DEFAULT_HERO = {
   imageUrl: 'https://images.unsplash.com/photo-1597733336794-12d05021d510?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHRlY2hub2xvZ3l8ZW58MHx8MHx8fDA%3D',
   imageAlt: 'Modern technology dashboard interface',
   features: [
-    { title: 'Tested & Validated', description: 'Every feature rigorously tested with real users' },
-    { title: 'Optimized Performance', description: 'Streamlined for maximum efficiency and speed' },
+    { title: 'Test Solutions for Seamless User Experiences', description: 'Every feature rigorously tested with real users' },
+    { title: 'Test Solutions for Seamless User Experiences', description: 'Streamlined for maximum efficiency and speed' },
   ],
   stats: [
     { value: '99.9%', label: 'Uptime' },
