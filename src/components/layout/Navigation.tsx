@@ -44,7 +44,7 @@ export default function Navigation(props: NavigationProps) {
               className="flex items-center gap-2 hover:opacity-80 transition-opacity"
             >
               <Image
-                src="https://pub-60de11c8c43b49ea9bd786eb6273aa91.r2.dev/82b782fc7ddc4d12f0407f2caab5f8dc.svg"
+                src="https://pub-60de11c8c43b49ea9bd786eb6273aa91.r2.dev/6a8ff5681bf76f31483020c043389b64.png"
                 alt="Logo"
                 width={32}
                 height={32}
@@ -107,7 +107,7 @@ export default function Navigation(props: NavigationProps) {
                   {/* Mobile Logo */}
                   <div className="flex items-center gap-2 pb-4 border-b border-border">
                     <Image
-                      src="https://pub-60de11c8c43b49ea9bd786eb6273aa91.r2.dev/82b782fc7ddc4d12f0407f2caab5f8dc.svg"
+                      src="https://pub-60de11c8c43b49ea9bd786eb6273aa91.r2.dev/6a8ff5681bf76f31483020c043389b64.png"
                       alt="Logo"
                       width={24}
                       height={24}
