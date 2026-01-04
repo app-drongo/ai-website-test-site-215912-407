@@ -9,18 +9,18 @@ import { useSmartNavigation } from '@/hooks/useSmartNavigation';
 
 const DEFAULT_HERO = {
   badge: 'Streamlined Technology',
-  title: 'Test Solutions for Seamless User Experiences',
+  title: 'Good Solutions for Seamless User Experiences',
   subtitle:
     'Validated technology that works flawlessly. Built for testing excellence with minimal complexity and maximum performance.',
   primaryCta: 'Start Testing',
   primaryCtaHref: '/get-started',
   secondaryCta: 'View Demo',
   secondaryCtaHref: '/demo',
-  imageUrl: 'https://plus.unsplash.com/premium_photo-1661963874418-df1110ee39c1?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fHRlY2hub2xvZ3l8ZW58MHx8MHx8fDA%3D',
+  imageUrl: 'https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
   imageAlt: 'Modern technology dashboard interface',
   features: [
-    { title: 'Test Solutions for Seamless User Experiences', description: 'Every feature rigorously tested with real users' },
-    { title: 'Test Solutions for Seamless User Experiences', description: 'Streamlined for maximum efficiency and speed' },
+    { title: 'Good Solutions for Seamless User Experiences', description: 'Every feature rigorously tested with real users' },
+    { title: 'Good Solutions for Seamless User Experiences', description: 'Streamlined for maximum efficiency and speed' },
   ],
   stats: [
     { value: '99.9%', label: 'Uptime' },
